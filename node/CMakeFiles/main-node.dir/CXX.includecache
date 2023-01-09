@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amithh/Documents/Course-Recommender/node/include/node.h
+../data/include/data.h
+/Users/amithh/Documents/Course-Recommender/node/data/include/data.h
+string
+-
+vector
+-
+
+/Users/amithh/Documents/Course-Recommender/node/main.cpp
+../node/include/node.h
+/Users/amithh/Documents/Course-Recommender/node/include/node.h
+
+data/include/data.h
+vector
+-
+string
+-
+sstream
+-
+fstream
+-
+

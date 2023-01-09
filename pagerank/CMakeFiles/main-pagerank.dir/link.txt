@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main-pagerank.dir/main.cpp.o  -o main-pagerank  libPageRankLib.a 

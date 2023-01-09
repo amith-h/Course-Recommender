@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amithh/Documents/Course-Recommender/graph/src/graph.cpp
+../graph/include/graph.h
+/Users/amithh/Documents/Course-Recommender/graph/graph/include/graph.h
+iostream
+-
+cmath
+-
+
+data/include/data.h
+vector
+-
+string
+-
+sstream
+-
+fstream
+-
+
+graph/include/graph.h
+../node/include/node.h
+graph/node/include/node.h
+vector
+-
+map
+-
+
+node/include/node.h
+../data/include/data.h
+node/data/include/data.h
+string
+-
+vector
+-
+

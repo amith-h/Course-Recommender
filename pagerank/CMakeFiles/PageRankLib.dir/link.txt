@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPageRankLib.a  CMakeFiles/PageRankLib.dir/src/pagerank.cpp.o
+/usr/bin/ranlib libPageRankLib.a

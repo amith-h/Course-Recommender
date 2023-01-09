@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amithh/Documents/Course-Recommender/data/include/data.h
+vector
+-
+string
+-
+sstream
+-
+fstream
+-
+
+/Users/amithh/Documents/Course-Recommender/data/include/node.h
+data.h
+/Users/amithh/Documents/Course-Recommender/data/include/data.h
+string
+-
+vector
+-
+
+/Users/amithh/Documents/Course-Recommender/data/main.cpp
+../data/include/node.h
+/Users/amithh/Documents/Course-Recommender/data/include/node.h
+../data/include/data.h
+/Users/amithh/Documents/Course-Recommender/data/include/data.h
+

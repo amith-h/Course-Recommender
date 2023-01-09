@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBFSLib.a  CMakeFiles/BFSLib.dir/src/BFS.cpp.o
+/usr/bin/ranlib libBFSLib.a

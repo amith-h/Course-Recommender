@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amithh/Documents/Course-Recommender/node/src/node.cpp
+../node/include/node.h
+/Users/amithh/Documents/Course-Recommender/node/node/include/node.h
+string
+-
+vector
+-
+
+data/include/data.h
+vector
+-
+string
+-
+sstream
+-
+fstream
+-
+
+node/include/node.h
+../data/include/data.h
+node/data/include/data.h
+string
+-
+vector
+-
+

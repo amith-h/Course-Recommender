@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main-bfs.dir/main.cpp.o  -o main-bfs  libBFSLib.a 

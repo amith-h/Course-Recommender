@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main-dijkstra.dir/main.cpp.o  -o main-dijkstra  libDijkstraLib.a 

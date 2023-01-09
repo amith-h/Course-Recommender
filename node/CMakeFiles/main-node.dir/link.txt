@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main-node.dir/main.cpp.o  -o main-node  libNodeLib.a 

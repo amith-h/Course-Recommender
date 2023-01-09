@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDijkstraLib.a  CMakeFiles/DijkstraLib.dir/src/dijkstra.cpp.o
+/usr/bin/ranlib libDijkstraLib.a

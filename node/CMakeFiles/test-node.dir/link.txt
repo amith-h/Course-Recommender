@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test-node.dir/src/node.cpp.o CMakeFiles/test-node.dir/tests/test.cpp.o CMakeFiles/test-node.dir/tests/tests.cpp.o  -o test-node  libNodeLib.a 
